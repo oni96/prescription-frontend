@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prescription-frontend/static/css/main.e6c13ad2.css",
+    "main.js": "/prescription-frontend/static/js/main.4c7a7dde.js",
+    "static/js/787.aba94772.chunk.js": "/prescription-frontend/static/js/787.aba94772.chunk.js",
+    "index.html": "/prescription-frontend/index.html",
+    "main.e6c13ad2.css.map": "/prescription-frontend/static/css/main.e6c13ad2.css.map",
+    "main.4c7a7dde.js.map": "/prescription-frontend/static/js/main.4c7a7dde.js.map",
+    "787.aba94772.chunk.js.map": "/prescription-frontend/static/js/787.aba94772.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.4c7a7dde.js"
+  ]
+}
